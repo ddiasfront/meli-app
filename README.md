@@ -4,7 +4,7 @@
 
 
 `````
-GIT CLONE https://github.com/ddiasfront/meli-react-universal-app.git
+GIT CLONE https://github.com/ddiasfront/meli-app.git
 `````
 
 ## 2 - INSTALAR DEPENDENCIAS 
@@ -44,3 +44,4 @@ IMMUTABLE
 STYLED COMPONENTS
 
 `````````````````"# meli-app" 
+"# meli-app" 
